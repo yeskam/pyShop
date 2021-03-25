@@ -80,7 +80,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'pyshop_db',
-        'USER': 'kani',
+        'USER': 'postgres',
         'PASSWORD': '1',
         'HOST': 'localhost',
         'PORT': 5432
